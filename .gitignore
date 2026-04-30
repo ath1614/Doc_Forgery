@@ -1,0 +1,55 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+*.egg-info/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+/tmp/
+/logs/
+
+# Data
+*.pkl
+*.pth
+*.h5
+*.ckpt
+
+# Backup files
+*.bak
+*.backup
+
+# Test outputs
+/test_outputs/
+/results/
+
+# Sensitive
+.env
+*.key
+*.pem
+credentials.json
+
+# Large files
+*.mp4
+*.avi
+*.mov
+*.zip
+*.tar.gz

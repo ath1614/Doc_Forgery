@@ -1,0 +1,547 @@
+[
+  {
+    "type": "photo_swap",
+    "is_forged": true,
+    "person": {
+      "name": "Kavita Pandey",
+      "gender": "Female",
+      "dob": "17/06/1984",
+      "uid": "5137 0996 4390",
+      "address": "5, Gandhi Nagar, Delhi, Haryana",
+      "city": "Delhi",
+      "state": "Haryana",
+      "pincode": "476906"
+    },
+    "qr_xml": "<PrintLetterBarcodeData uid=\"4390\" name=\"Kavita Pandey\" gender=\"F\" dob=\"17-06-1984\" co=\"S/O: Kumar\" house=\"5\" loc=\"Delhi\" vtc=\"Delhi\" dist=\"Delhi\" state=\"Haryana\" pc=\"476906\" />",
+    "forgery_details": "Face photo replaced with different person",
+    "filename": "aadhaar_0000_photo_swap.jpg",
+    "filepath": "/home/tech/kavach_document/data/samples/aadhaar_0000_photo_swap.jpg"
+  },
+  {
+    "type": "genuine",
+    "is_forged": false,
+    "person": {
+      "name": "Nisha Reddy",
+      "gender": "Female",
+      "dob": "05/01/2005",
+      "uid": "9022 6754 3331",
+      "address": "32, Shivaji Nagar, Chennai, Maharashtra",
+      "city": "Chennai",
+      "state": "Maharashtra",
+      "pincode": "323441"
+    },
+    "qr_xml": "<PrintLetterBarcodeData uid=\"3331\" name=\"Nisha Reddy\" gender=\"F\" dob=\"05-01-2005\" co=\"S/O: Nair\" house=\"32\" loc=\"Chennai\" vtc=\"Chennai\" dist=\"Chennai\" state=\"Maharashtra\" pc=\"323441\" />",
+    "forgery_details": "Clean genuine document",
+    "filename": "aadhaar_0001_genuine.jpg",
+    "filepath": "/home/tech/kavach_document/data/samples/aadhaar_0001_genuine.jpg"
+  },
+  {
+    "type": "genuine",
+    "is_forged": false,
+    "person": {
+      "name": "Rekha Mishra",
+      "gender": "Female",
+      "dob": "10/01/1990",
+      "uid": "1431 4153 2581",
+      "address": "259, Ambedkar Colony, Surat, Delhi",
+      "city": "Surat",
+      "state": "Delhi",
+      "pincode": "809235"
+    },
+    "qr_xml": "<PrintLetterBarcodeData uid=\"2581\" name=\"Rekha Mishra\" gender=\"F\" dob=\"10-01-1990\" co=\"S/O: Kumar\" house=\"259\" loc=\"Surat\" vtc=\"Surat\" dist=\"Surat\" state=\"Delhi\" pc=\"809235\" />",
+    "forgery_details": "Clean genuine document",
+    "filename": "aadhaar_0002_genuine.jpg",
+    "filepath": "/home/tech/kavach_document/data/samples/aadhaar_0002_genuine.jpg"
+  },
+  {
+    "type": "genuine",
+    "is_forged": false,
+    "person": {
+      "name": "Ritu Kumar",
+      "gender": "Female",
+      "dob": "12/03/1959",
+      "uid": "1800 0808 4338",
+      "address": "144, Patel Colony, Bangalore, Haryana",
+      "city": "Bangalore",
+      "state": "Haryana",
+      "pincode": "135355"
+    },
+    "qr_xml": "<PrintLetterBarcodeData uid=\"4338\" name=\"Ritu Kumar\" gender=\"F\" dob=\"12-03-1959\" co=\"S/O: Patel\" house=\"144\" loc=\"Bangalore\" vtc=\"Bangalore\" dist=\"Bangalore\" state=\"Haryana\" pc=\"135355\" />",
+    "forgery_details": "Clean genuine document",
+    "filename": "aadhaar_0003_genuine.jpg",
+    "filepath": "/home/tech/kavach_document/data/samples/aadhaar_0003_genuine.jpg"
+  },
+  {
+    "type": "photo_swap",
+    "is_forged": true,
+    "person": {
+      "name": "Rohit Rao",
+      "gender": "Male",
+      "dob": "18/02/1999",
+      "uid": "6301 1475 2044",
+      "address": "24, Gandhi Nagar, Lucknow, Telangana",
+      "city": "Lucknow",
+      "state": "Telangana",
+      "pincode": "961883"
+    },
+    "qr_xml": "<PrintLetterBarcodeData uid=\"2044\" name=\"Rohit Rao\" gender=\"M\" dob=\"18-02-1999\" co=\"S/O: Yadav\" house=\"24\" loc=\"Lucknow\" vtc=\"Lucknow\" dist=\"Lucknow\" state=\"Telangana\" pc=\"961883\" />",
+    "forgery_details": "Face photo replaced with different person",
+    "filename": "aadhaar_0004_photo_swap.jpg",
+    "filepath": "/home/tech/kavach_document/data/samples/aadhaar_0004_photo_swap.jpg"
+  },
+  {
+    "type": "photo_swap",
+    "is_forged": true,
+    "person": {
+      "name": "Rahul Verma",
+      "gender": "Male",
+      "dob": "12/02/1993",
+      "uid": "6997 0901 5893",
+      "address": "229, Laxmi Nagar, Ahmedabad, Madhya Pradesh",
+      "city": "Ahmedabad",
+      "state": "Madhya Pradesh",
+      "pincode": "414557"
+    },
+    "qr_xml": "<PrintLetterBarcodeData uid=\"5893\" name=\"Rahul Verma\" gender=\"M\" dob=\"12-02-1993\" co=\"S/O: Sharma\" house=\"229\" loc=\"Ahmedabad\" vtc=\"Ahmedabad\" dist=\"Ahmedabad\" state=\"Madhya Pradesh\" pc=\"414557\" />",
+    "forgery_details": "Face photo replaced with different person",
+    "filename": "aadhaar_0005_photo_swap.jpg",
+    "filepath": "/home/tech/kavach_document/data/samples/aadhaar_0005_photo_swap.jpg"
+  },
+  {
+    "type": "qr_mismatch",
+    "is_forged": true,
+    "person": {
+      "name": "Sunita Mehta",
+      "gender": "Female",
+      "dob": "07/06/1984",
+      "uid": "4222 6875 9062",
+      "address": "813, Rajiv Gandhi Road, Hyderabad, Karnataka",
+      "city": "Hyderabad",
+      "state": "Karnataka",
+      "pincode": "516531"
+    },
+    "qr_xml": "<PrintLetterBarcodeData uid=\"9062\" name=\"Sunita Mehta\" gender=\"F\" dob=\"07-06-1984\" co=\"S/O: Iyer\" house=\"813\" loc=\"Hyderabad\" vtc=\"Hyderabad\" dist=\"Hyderabad\" state=\"Karnataka\" pc=\"516531\" />",
+    "forgery_details": "QR contains different person data",
+    "qr_person": "Shweta Sharma",
+    "filename": "aadhaar_0006_qr_mismatch.jpg",
+    "filepath": "/home/tech/kavach_document/data/samples/aadhaar_0006_qr_mismatch.jpg"
+  },
+  {
+    "type": "genuine",
+    "is_forged": false,
+    "person": {
+      "name": "Pallavi Mishra",
+      "gender": "Female",
+      "dob": "30/04/1995",
+      "uid": "4163 3923 0537",
+      "address": "111, Laxmi Nagar, Ahmedabad, West Bengal",
+      "city": "Ahmedabad",
+      "state": "West Bengal",
+      "pincode": "584829"
+    },
+    "qr_xml": "<PrintLetterBarcodeData uid=\"0537\" name=\"Pallavi Mishra\" gender=\"F\" dob=\"30-04-1995\" co=\"S/O: Pillai\" house=\"111\" loc=\"Ahmedabad\" vtc=\"Ahmedabad\" dist=\"Ahmedabad\" state=\"West Bengal\" pc=\"584829\" />",
+    "forgery_details": "Clean genuine document",
+    "filename": "aadhaar_0007_genuine.jpg",
+    "filepath": "/home/tech/kavach_document/data/samples/aadhaar_0007_genuine.jpg"
+  },
+  {
+    "type": "genuine",
+    "is_forged": false,
+    "person": {
+      "name": "Sonal Mishra",
+      "gender": "Female",
+      "dob": "10/05/1956",
+      "uid": "7958 3109 7858",
+      "address": "137, Subhash Nagar, Mumbai, Karnataka",
+      "city": "Mumbai",
+      "state": "Karnataka",
+      "pincode": "203921"
+    },
+    "qr_xml": "<PrintLetterBarcodeData uid=\"7858\" name=\"Sonal Mishra\" gender=\"F\" dob=\"10-05-1956\" co=\"S/O: Chauhan\" house=\"137\" loc=\"Mumbai\" vtc=\"Mumbai\" dist=\"Mumbai\" state=\"Karnataka\" pc=\"203921\" />",
+    "forgery_details": "Clean genuine document",
+    "filename": "aadhaar_0008_genuine.jpg",
+    "filepath": "/home/tech/kavach_document/data/samples/aadhaar_0008_genuine.jpg"
+  },
+  {
+    "type": "photo_swap",
+    "is_forged": true,
+    "person": {
+      "name": "Ravi Verma",
+      "gender": "Male",
+      "dob": "16/03/1981",
+      "uid": "3922 6601 6639",
+      "address": "252, Ambedkar Colony, Surat, Haryana",
+      "city": "Surat",
+      "state": "Haryana",
+      "pincode": "528915"
+    },
+    "qr_xml": "<PrintLetterBarcodeData uid=\"6639\" name=\"Ravi Verma\" gender=\"M\" dob=\"16-03-1981\" co=\"S/O: Gupta\" house=\"252\" loc=\"Surat\" vtc=\"Surat\" dist=\"Surat\" state=\"Haryana\" pc=\"528915\" />",
+    "forgery_details": "Face photo replaced with different person",
+    "filename": "aadhaar_0009_photo_swap.jpg",
+    "filepath": "/home/tech/kavach_document/data/samples/aadhaar_0009_photo_swap.jpg"
+  },
+  {
+    "type": "uid_edit",
+    "is_forged": true,
+    "person": {
+      "name": "Meena Sharma",
+      "gender": "Female",
+      "dob": "24/01/1956",
+      "uid": "8107 9826 0062",
+      "address": "672, Laxmi Nagar, Indore, Odisha",
+      "city": "Indore",
+      "state": "Odisha",
+      "pincode": "512997"
+    },
+    "qr_xml": "<PrintLetterBarcodeData uid=\"0062\" name=\"Meena Sharma\" gender=\"F\" dob=\"24-01-1956\" co=\"S/O: Gupta\" house=\"672\" loc=\"Indore\" vtc=\"Indore\" dist=\"Indore\" state=\"Odisha\" pc=\"512997\" />",
+    "forgery_details": "UID number replaced with invalid number",
+    "filename": "aadhaar_0010_uid_edit.jpg",
+    "filepath": "/home/tech/kavach_document/data/samples/aadhaar_0010_uid_edit.jpg"
+  },
+  {
+    "type": "genuine",
+    "is_forged": false,
+    "person": {
+      "name": "Karan Nair",
+      "gender": "Male",
+      "dob": "07/12/1965",
+      "uid": "2770 4737 8282",
+      "address": "397, Rajiv Gandhi Road, Surat, Karnataka",
+      "city": "Surat",
+      "state": "Karnataka",
+      "pincode": "677847"
+    },
+    "qr_xml": "<PrintLetterBarcodeData uid=\"8282\" name=\"Karan Nair\" gender=\"M\" dob=\"07-12-1965\" co=\"S/O: Rao\" house=\"397\" loc=\"Surat\" vtc=\"Surat\" dist=\"Surat\" state=\"Karnataka\" pc=\"677847\" />",
+    "forgery_details": "Clean genuine document",
+    "filename": "aadhaar_0011_genuine.jpg",
+    "filepath": "/home/tech/kavach_document/data/samples/aadhaar_0011_genuine.jpg"
+  },
+  {
+    "type": "genuine",
+    "is_forged": false,
+    "person": {
+      "name": "Pradeep Chauhan",
+      "gender": "Male",
+      "dob": "23/04/1955",
+      "uid": "1782 3228 0044",
+      "address": "182, Nehru Street, Hyderabad, Delhi",
+      "city": "Hyderabad",
+      "state": "Delhi",
+      "pincode": "251598"
+    },
+    "qr_xml": "<PrintLetterBarcodeData uid=\"0044\" name=\"Pradeep Chauhan\" gender=\"M\" dob=\"23-04-1955\" co=\"S/O: Mishra\" house=\"182\" loc=\"Hyderabad\" vtc=\"Hyderabad\" dist=\"Hyderabad\" state=\"Delhi\" pc=\"251598\" />",
+    "forgery_details": "Clean genuine document",
+    "filename": "aadhaar_0012_genuine.jpg",
+    "filepath": "/home/tech/kavach_document/data/samples/aadhaar_0012_genuine.jpg"
+  },
+  {
+    "type": "text_edit",
+    "is_forged": true,
+    "person": {
+      "name": "Meena Kumar",
+      "gender": "Female",
+      "dob": "27/07/2004",
+      "uid": "9128 2237 2360",
+      "address": "83, Rajiv Gandhi Road, Indore, Telangana",
+      "city": "Indore",
+      "state": "Telangana",
+      "pincode": "380660"
+    },
+    "qr_xml": "<PrintLetterBarcodeData uid=\"2360\" name=\"Meena Kumar\" gender=\"F\" dob=\"27-07-2004\" co=\"S/O: Patel\" house=\"83\" loc=\"Indore\" vtc=\"Indore\" dist=\"Indore\" state=\"Telangana\" pc=\"380660\" />",
+    "forgery_details": "Name changed to: Vijay Nair",
+    "original_name": "Meena Kumar",
+    "filename": "aadhaar_0013_text_edit.jpg",
+    "filepath": "/home/tech/kavach_document/data/samples/aadhaar_0013_text_edit.jpg"
+  },
+  {
+    "type": "uid_edit",
+    "is_forged": true,
+    "person": {
+      "name": "Pradeep Iyer",
+      "gender": "Male",
+      "dob": "04/02/1998",
+      "uid": "3407 7055 0260",
+      "address": "446, Shivaji Nagar, Delhi, Punjab",
+      "city": "Delhi",
+      "state": "Punjab",
+      "pincode": "704812"
+    },
+    "qr_xml": "<PrintLetterBarcodeData uid=\"0260\" name=\"Pradeep Iyer\" gender=\"M\" dob=\"04-02-1998\" co=\"S/O: Nair\" house=\"446\" loc=\"Delhi\" vtc=\"Delhi\" dist=\"Delhi\" state=\"Punjab\" pc=\"704812\" />",
+    "forgery_details": "UID number replaced with invalid number",
+    "filename": "aadhaar_0014_uid_edit.jpg",
+    "filepath": "/home/tech/kavach_document/data/samples/aadhaar_0014_uid_edit.jpg"
+  },
+  {
+    "type": "compressed_fake",
+    "is_forged": false,
+    "person": {
+      "name": "Sanjay Sharma",
+      "gender": "Male",
+      "dob": "22/09/1987",
+      "uid": "9809 8942 9275",
+      "address": "633, MG Road, Indore, Telangana",
+      "city": "Indore",
+      "state": "Telangana",
+      "pincode": "843583"
+    },
+    "qr_xml": "<PrintLetterBarcodeData uid=\"9275\" name=\"Sanjay Sharma\" gender=\"M\" dob=\"22-09-1987\" co=\"S/O: Chauhan\" house=\"633\" loc=\"Indore\" vtc=\"Indore\" dist=\"Indore\" state=\"Telangana\" pc=\"843583\" />",
+    "forgery_details": "Heavily compressed (WhatsApp-style) genuine doc",
+    "filename": "aadhaar_0015_compressed_fake.jpg",
+    "filepath": "/home/tech/kavach_document/data/samples/aadhaar_0015_compressed_fake.jpg"
+  },
+  {
+    "type": "compressed_fake",
+    "is_forged": false,
+    "person": {
+      "name": "Gaurav Chauhan",
+      "gender": "Male",
+      "dob": "25/01/1994",
+      "uid": "8143 3984 6472",
+      "address": "493, Gandhi Nagar, Kolkata, Uttar Pradesh",
+      "city": "Kolkata",
+      "state": "Uttar Pradesh",
+      "pincode": "840481"
+    },
+    "qr_xml": "<PrintLetterBarcodeData uid=\"6472\" name=\"Gaurav Chauhan\" gender=\"M\" dob=\"25-01-1994\" co=\"S/O: Kumar\" house=\"493\" loc=\"Kolkata\" vtc=\"Kolkata\" dist=\"Kolkata\" state=\"Uttar Pradesh\" pc=\"840481\" />",
+    "forgery_details": "Heavily compressed (WhatsApp-style) genuine doc",
+    "filename": "aadhaar_0016_compressed_fake.jpg",
+    "filepath": "/home/tech/kavach_document/data/samples/aadhaar_0016_compressed_fake.jpg"
+  },
+  {
+    "type": "genuine",
+    "is_forged": false,
+    "person": {
+      "name": "Pooja Patel",
+      "gender": "Female",
+      "dob": "17/01/1969",
+      "uid": "6668 7978 8936",
+      "address": "144, Laxmi Nagar, Kolkata, Telangana",
+      "city": "Kolkata",
+      "state": "Telangana",
+      "pincode": "452347"
+    },
+    "qr_xml": "<PrintLetterBarcodeData uid=\"8936\" name=\"Pooja Patel\" gender=\"F\" dob=\"17-01-1969\" co=\"S/O: Singh\" house=\"144\" loc=\"Kolkata\" vtc=\"Kolkata\" dist=\"Kolkata\" state=\"Telangana\" pc=\"452347\" />",
+    "forgery_details": "Clean genuine document",
+    "filename": "aadhaar_0017_genuine.jpg",
+    "filepath": "/home/tech/kavach_document/data/samples/aadhaar_0017_genuine.jpg"
+  },
+  {
+    "type": "photo_swap",
+    "is_forged": true,
+    "person": {
+      "name": "Meena Sharma",
+      "gender": "Female",
+      "dob": "05/06/1953",
+      "uid": "2582 4900 4178",
+      "address": "241, Nehru Street, Surat, Rajasthan",
+      "city": "Surat",
+      "state": "Rajasthan",
+      "pincode": "853824"
+    },
+    "qr_xml": "<PrintLetterBarcodeData uid=\"4178\" name=\"Meena Sharma\" gender=\"F\" dob=\"05-06-1953\" co=\"S/O: Sharma\" house=\"241\" loc=\"Surat\" vtc=\"Surat\" dist=\"Surat\" state=\"Rajasthan\" pc=\"853824\" />",
+    "forgery_details": "Face photo replaced with different person",
+    "filename": "aadhaar_0018_photo_swap.jpg",
+    "filepath": "/home/tech/kavach_document/data/samples/aadhaar_0018_photo_swap.jpg"
+  },
+  {
+    "type": "text_edit",
+    "is_forged": true,
+    "person": {
+      "name": "Komal Desai",
+      "gender": "Female",
+      "dob": "16/06/1959",
+      "uid": "3169 3407 8156",
+      "address": "132, Ambedkar Colony, Kolkata, Rajasthan",
+      "city": "Kolkata",
+      "state": "Rajasthan",
+      "pincode": "727614"
+    },
+    "qr_xml": "<PrintLetterBarcodeData uid=\"8156\" name=\"Komal Desai\" gender=\"F\" dob=\"16-06-1959\" co=\"S/O: Nair\" house=\"132\" loc=\"Kolkata\" vtc=\"Kolkata\" dist=\"Kolkata\" state=\"Rajasthan\" pc=\"727614\" />",
+    "forgery_details": "Name changed to: Ajay Kumar",
+    "original_name": "Komal Desai",
+    "filename": "aadhaar_0019_text_edit.jpg",
+    "filepath": "/home/tech/kavach_document/data/samples/aadhaar_0019_text_edit.jpg"
+  },
+  {
+    "type": "text_edit",
+    "is_forged": true,
+    "person": {
+      "name": "Vijay Tiwari",
+      "gender": "Male",
+      "dob": "01/09/1990",
+      "uid": "9224 9646 1355",
+      "address": "115, Subhash Nagar, Kanpur, Haryana",
+      "city": "Kanpur",
+      "state": "Haryana",
+      "pincode": "541513"
+    },
+    "qr_xml": "<PrintLetterBarcodeData uid=\"1355\" name=\"Vijay Tiwari\" gender=\"M\" dob=\"01-09-1990\" co=\"S/O: Chauhan\" house=\"115\" loc=\"Kanpur\" vtc=\"Kanpur\" dist=\"Kanpur\" state=\"Haryana\" pc=\"541513\" />",
+    "forgery_details": "Name changed to: Vijay Rao",
+    "original_name": "Vijay Tiwari",
+    "filename": "aadhaar_0020_text_edit.jpg",
+    "filepath": "/home/tech/kavach_document/data/samples/aadhaar_0020_text_edit.jpg"
+  },
+  {
+    "type": "qr_mismatch",
+    "is_forged": true,
+    "person": {
+      "name": "Ankit Reddy",
+      "gender": "Male",
+      "dob": "13/02/1973",
+      "uid": "5967 3931 9678",
+      "address": "834, Laxmi Nagar, Ahmedabad, Kerala",
+      "city": "Ahmedabad",
+      "state": "Kerala",
+      "pincode": "449163"
+    },
+    "qr_xml": "<PrintLetterBarcodeData uid=\"9678\" name=\"Ankit Reddy\" gender=\"M\" dob=\"13-02-1973\" co=\"S/O: Chauhan\" house=\"834\" loc=\"Ahmedabad\" vtc=\"Ahmedabad\" dist=\"Ahmedabad\" state=\"Kerala\" pc=\"449163\" />",
+    "forgery_details": "QR contains different person data",
+    "qr_person": "Sachin Tiwari",
+    "filename": "aadhaar_0021_qr_mismatch.jpg",
+    "filepath": "/home/tech/kavach_document/data/samples/aadhaar_0021_qr_mismatch.jpg"
+  },
+  {
+    "type": "uid_edit",
+    "is_forged": true,
+    "person": {
+      "name": "Karan Pandey",
+      "gender": "Male",
+      "dob": "01/12/2000",
+      "uid": "6628 7672 3743",
+      "address": "661, Laxmi Nagar, Indore, Maharashtra",
+      "city": "Indore",
+      "state": "Maharashtra",
+      "pincode": "673237"
+    },
+    "qr_xml": "<PrintLetterBarcodeData uid=\"3743\" name=\"Karan Pandey\" gender=\"M\" dob=\"01-12-2000\" co=\"S/O: Iyer\" house=\"661\" loc=\"Indore\" vtc=\"Indore\" dist=\"Indore\" state=\"Maharashtra\" pc=\"673237\" />",
+    "forgery_details": "UID number replaced with invalid number",
+    "filename": "aadhaar_0022_uid_edit.jpg",
+    "filepath": "/home/tech/kavach_document/data/samples/aadhaar_0022_uid_edit.jpg"
+  },
+  {
+    "type": "photo_swap",
+    "is_forged": true,
+    "person": {
+      "name": "Sneha Desai",
+      "gender": "Female",
+      "dob": "29/04/1951",
+      "uid": "6571 6373 5005",
+      "address": "153, Patel Colony, Mumbai, Maharashtra",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "pincode": "447661"
+    },
+    "qr_xml": "<PrintLetterBarcodeData uid=\"5005\" name=\"Sneha Desai\" gender=\"F\" dob=\"29-04-1951\" co=\"S/O: Reddy\" house=\"153\" loc=\"Mumbai\" vtc=\"Mumbai\" dist=\"Mumbai\" state=\"Maharashtra\" pc=\"447661\" />",
+    "forgery_details": "Face photo replaced with different person",
+    "filename": "aadhaar_0023_photo_swap.jpg",
+    "filepath": "/home/tech/kavach_document/data/samples/aadhaar_0023_photo_swap.jpg"
+  },
+  {
+    "type": "genuine",
+    "is_forged": false,
+    "person": {
+      "name": "Pooja Desai",
+      "gender": "Female",
+      "dob": "14/12/1964",
+      "uid": "2303 1461 1000",
+      "address": "45, Nehru Street, Indore, Karnataka",
+      "city": "Indore",
+      "state": "Karnataka",
+      "pincode": "843219"
+    },
+    "qr_xml": "<PrintLetterBarcodeData uid=\"1000\" name=\"Pooja Desai\" gender=\"F\" dob=\"14-12-1964\" co=\"S/O: Mehta\" house=\"45\" loc=\"Indore\" vtc=\"Indore\" dist=\"Indore\" state=\"Karnataka\" pc=\"843219\" />",
+    "forgery_details": "Clean genuine document",
+    "filename": "aadhaar_0024_genuine.jpg",
+    "filepath": "/home/tech/kavach_document/data/samples/aadhaar_0024_genuine.jpg"
+  },
+  {
+    "type": "genuine",
+    "is_forged": false,
+    "person": {
+      "name": "Deepak Mishra",
+      "gender": "Male",
+      "dob": "30/04/1999",
+      "uid": "3547 3207 4902",
+      "address": "777, Ambedkar Colony, Bangalore, West Bengal",
+      "city": "Bangalore",
+      "state": "West Bengal",
+      "pincode": "528716"
+    },
+    "qr_xml": "<PrintLetterBarcodeData uid=\"4902\" name=\"Deepak Mishra\" gender=\"M\" dob=\"30-04-1999\" co=\"S/O: Iyer\" house=\"777\" loc=\"Bangalore\" vtc=\"Bangalore\" dist=\"Bangalore\" state=\"West Bengal\" pc=\"528716\" />",
+    "forgery_details": "Clean genuine document",
+    "filename": "aadhaar_0025_genuine.jpg",
+    "filepath": "/home/tech/kavach_document/data/samples/aadhaar_0025_genuine.jpg"
+  },
+  {
+    "type": "genuine",
+    "is_forged": false,
+    "person": {
+      "name": "Neha Nair",
+      "gender": "Female",
+      "dob": "29/01/1993",
+      "uid": "8976 4424 2397",
+      "address": "523, Patel Colony, Pune, Maharashtra",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "pincode": "461655"
+    },
+    "qr_xml": "<PrintLetterBarcodeData uid=\"2397\" name=\"Neha Nair\" gender=\"F\" dob=\"29-01-1993\" co=\"S/O: Tiwari\" house=\"523\" loc=\"Pune\" vtc=\"Pune\" dist=\"Pune\" state=\"Maharashtra\" pc=\"461655\" />",
+    "forgery_details": "Clean genuine document",
+    "filename": "aadhaar_0026_genuine.jpg",
+    "filepath": "/home/tech/kavach_document/data/samples/aadhaar_0026_genuine.jpg"
+  },
+  {
+    "type": "genuine",
+    "is_forged": false,
+    "person": {
+      "name": "Ritu Nair",
+      "gender": "Female",
+      "dob": "13/12/1986",
+      "uid": "5427 9868 2815",
+      "address": "717, Subhash Nagar, Lucknow, West Bengal",
+      "city": "Lucknow",
+      "state": "West Bengal",
+      "pincode": "974976"
+    },
+    "qr_xml": "<PrintLetterBarcodeData uid=\"2815\" name=\"Ritu Nair\" gender=\"F\" dob=\"13-12-1986\" co=\"S/O: Shah\" house=\"717\" loc=\"Lucknow\" vtc=\"Lucknow\" dist=\"Lucknow\" state=\"West Bengal\" pc=\"974976\" />",
+    "forgery_details": "Clean genuine document",
+    "filename": "aadhaar_0027_genuine.jpg",
+    "filepath": "/home/tech/kavach_document/data/samples/aadhaar_0027_genuine.jpg"
+  },
+  {
+    "type": "genuine",
+    "is_forged": false,
+    "person": {
+      "name": "Sanjay Yadav",
+      "gender": "Male",
+      "dob": "31/03/1993",
+      "uid": "7382 4497 5447",
+      "address": "877, Nehru Street, Jaipur, Odisha",
+      "city": "Jaipur",
+      "state": "Odisha",
+      "pincode": "648555"
+    },
+    "qr_xml": "<PrintLetterBarcodeData uid=\"5447\" name=\"Sanjay Yadav\" gender=\"M\" dob=\"31-03-1993\" co=\"S/O: Gupta\" house=\"877\" loc=\"Jaipur\" vtc=\"Jaipur\" dist=\"Jaipur\" state=\"Odisha\" pc=\"648555\" />",
+    "forgery_details": "Clean genuine document",
+    "filename": "aadhaar_0028_genuine.jpg",
+    "filepath": "/home/tech/kavach_document/data/samples/aadhaar_0028_genuine.jpg"
+  },
+  {
+    "type": "uid_edit",
+    "is_forged": true,
+    "person": {
+      "name": "Sneha Gupta",
+      "gender": "Female",
+      "dob": "13/04/1984",
+      "uid": "4488 1790 9502",
+      "address": "185, Ambedkar Colony, Surat, Telangana",
+      "city": "Surat",
+      "state": "Telangana",
+      "pincode": "688386"
+    },
+    "qr_xml": "<PrintLetterBarcodeData uid=\"9502\" name=\"Sneha Gupta\" gender=\"F\" dob=\"13-04-1984\" co=\"S/O: Joshi\" house=\"185\" loc=\"Surat\" vtc=\"Surat\" dist=\"Surat\" state=\"Telangana\" pc=\"688386\" />",
+    "forgery_details": "UID number replaced with invalid number",
+    "filename": "aadhaar_0029_uid_edit.jpg",
+    "filepath": "/home/tech/kavach_document/data/samples/aadhaar_0029_uid_edit.jpg"
+  }
+]

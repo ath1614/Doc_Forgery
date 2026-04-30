@@ -1,0 +1,407 @@
+[
+  {
+    "type": "genuine",
+    "is_forged": false,
+    "person": {
+      "name": "Lalita Iyer",
+      "relation": "H/O",
+      "father_name": "Rajesh Iyer",
+      "gender": "Female",
+      "dob": "12/11/1998",
+      "epic": "UP8443906",
+      "constituency": "Bandra East",
+      "state": "Delhi",
+      "part_no": "235",
+      "serial_no": "94"
+    },
+    "lang": "hindi",
+    "forgery_details": "Clean genuine Voter ID",
+    "filename": "voter_0000_genuine_hi.jpg",
+    "filepath": "/home/tech/kavach_document/data/samples/voter_0000_genuine_hi.jpg"
+  },
+  {
+    "type": "photo_swap",
+    "is_forged": true,
+    "person": {
+      "name": "Sahil Singh",
+      "relation": "W/O",
+      "father_name": "Anil Singh",
+      "gender": "Male",
+      "dob": "09/04/1975",
+      "epic": "KL3171955",
+      "constituency": "Bandra East",
+      "state": "Delhi",
+      "part_no": "139",
+      "serial_no": "668"
+    },
+    "lang": "hindi",
+    "forgery_details": "Face photo replaced",
+    "filename": "voter_0001_photo_swap_hi.jpg",
+    "filepath": "/home/tech/kavach_document/data/samples/voter_0001_photo_swap_hi.jpg"
+  },
+  {
+    "type": "photo_swap",
+    "is_forged": true,
+    "person": {
+      "name": "Rajesh Tiwari",
+      "relation": "W/O",
+      "father_name": "Mahesh Tiwari",
+      "gender": "Male",
+      "dob": "17/04/2006",
+      "epic": "WB6525079",
+      "constituency": "Mulund",
+      "state": "Rajasthan",
+      "part_no": "208",
+      "serial_no": "646"
+    },
+    "lang": "marathi",
+    "forgery_details": "Face photo replaced",
+    "filename": "voter_0002_photo_swap_ma.jpg",
+    "filepath": "/home/tech/kavach_document/data/samples/voter_0002_photo_swap_ma.jpg"
+  },
+  {
+    "type": "genuine",
+    "is_forged": false,
+    "person": {
+      "name": "Neha Pillai",
+      "relation": "S/O",
+      "father_name": "Naresh Pillai",
+      "gender": "Female",
+      "dob": "29/03/1988",
+      "epic": "KA0458778",
+      "constituency": "Rohini",
+      "state": "Tamil Nadu",
+      "part_no": "104",
+      "serial_no": "803"
+    },
+    "lang": "hindi",
+    "forgery_details": "Clean genuine Voter ID",
+    "filename": "voter_0003_genuine_hi.jpg",
+    "filepath": "/home/tech/kavach_document/data/samples/voter_0003_genuine_hi.jpg"
+  },
+  {
+    "type": "photo_swap",
+    "is_forged": true,
+    "person": {
+      "name": "Usha Shah",
+      "relation": "D/O",
+      "father_name": "Suresh Shah",
+      "gender": "Female",
+      "dob": "21/10/1971",
+      "epic": "RJ1671627",
+      "constituency": "Rohini",
+      "state": "Karnataka",
+      "part_no": "83",
+      "serial_no": "900"
+    },
+    "lang": "marathi",
+    "forgery_details": "Face photo replaced",
+    "filename": "voter_0004_photo_swap_ma.jpg",
+    "filepath": "/home/tech/kavach_document/data/samples/voter_0004_photo_swap_ma.jpg"
+  },
+  {
+    "type": "photo_swap",
+    "is_forged": true,
+    "person": {
+      "name": "Ganesh Desai",
+      "relation": "H/O",
+      "father_name": "Ganesh Desai",
+      "gender": "Male",
+      "dob": "10/10/1967",
+      "epic": "GJ9543671",
+      "constituency": "Ghatkopar",
+      "state": "Karnataka",
+      "part_no": "51",
+      "serial_no": "299"
+    },
+    "lang": "hindi",
+    "forgery_details": "Face photo replaced",
+    "filename": "voter_0005_photo_swap_hi.jpg",
+    "filepath": "/home/tech/kavach_document/data/samples/voter_0005_photo_swap_hi.jpg"
+  },
+  {
+    "type": "epic_edit",
+    "is_forged": true,
+    "person": {
+      "name": "Geeta Shah",
+      "relation": "H/O",
+      "father_name": "Mahesh Shah",
+      "gender": "Female",
+      "dob": "23/10/1990",
+      "epic": "MH6052085",
+      "constituency": "Andheri East",
+      "state": "Gujarat",
+      "part_no": "32",
+      "serial_no": "275"
+    },
+    "lang": "hindi",
+    "forgery_details": "EPIC changed to RJ6671424",
+    "original_epic": "MH6052085",
+    "filename": "voter_0006_epic_edit_hi.jpg",
+    "filepath": "/home/tech/kavach_document/data/samples/voter_0006_epic_edit_hi.jpg"
+  },
+  {
+    "type": "genuine",
+    "is_forged": false,
+    "person": {
+      "name": "Viresh Verma",
+      "relation": "W/O",
+      "father_name": "Nikhil Verma",
+      "gender": "Male",
+      "dob": "06/09/1946",
+      "epic": "KA1370857",
+      "constituency": "Vikhroli",
+      "state": "Delhi",
+      "part_no": "237",
+      "serial_no": "584"
+    },
+    "lang": "hindi",
+    "forgery_details": "Clean genuine Voter ID",
+    "filename": "voter_0007_genuine_hi.jpg",
+    "filepath": "/home/tech/kavach_document/data/samples/voter_0007_genuine_hi.jpg"
+  },
+  {
+    "type": "epic_edit",
+    "is_forged": true,
+    "person": {
+      "name": "Kapil Reddy",
+      "relation": "S/O",
+      "father_name": "Ganesh Reddy",
+      "gender": "Male",
+      "dob": "06/06/1964",
+      "epic": "GJ4947693",
+      "constituency": "Bandra East",
+      "state": "West Bengal",
+      "part_no": "209",
+      "serial_no": "766"
+    },
+    "lang": "marathi",
+    "forgery_details": "EPIC changed to RJ7384109",
+    "original_epic": "GJ4947693",
+    "filename": "voter_0008_epic_edit_ma.jpg",
+    "filepath": "/home/tech/kavach_document/data/samples/voter_0008_epic_edit_ma.jpg"
+  },
+  {
+    "type": "photo_swap",
+    "is_forged": true,
+    "person": {
+      "name": "Misha Mehta",
+      "relation": "S/O",
+      "father_name": "Rajesh Mehta",
+      "gender": "Female",
+      "dob": "16/09/1961",
+      "epic": "GJ7656550",
+      "constituency": "Karol Bagh",
+      "state": "Gujarat",
+      "part_no": "6",
+      "serial_no": "315"
+    },
+    "lang": "hindi",
+    "forgery_details": "Face photo replaced",
+    "filename": "voter_0009_photo_swap_hi.jpg",
+    "filepath": "/home/tech/kavach_document/data/samples/voter_0009_photo_swap_hi.jpg"
+  },
+  {
+    "type": "genuine",
+    "is_forged": false,
+    "person": {
+      "name": "Sneha Pandey",
+      "relation": "D/O",
+      "father_name": "Anil Pandey",
+      "gender": "Female",
+      "dob": "07/06/1971",
+      "epic": "MH7874195",
+      "constituency": "Vikhroli",
+      "state": "Tamil Nadu",
+      "part_no": "84",
+      "serial_no": "161"
+    },
+    "lang": "marathi",
+    "forgery_details": "Clean genuine Voter ID",
+    "filename": "voter_0010_genuine_ma.jpg",
+    "filepath": "/home/tech/kavach_document/data/samples/voter_0010_genuine_ma.jpg"
+  },
+  {
+    "type": "epic_edit",
+    "is_forged": true,
+    "person": {
+      "name": "Mahesh Tiwari",
+      "relation": "S/O",
+      "father_name": "Dinesh Tiwari",
+      "gender": "Male",
+      "dob": "09/12/1981",
+      "epic": "GJ3621798",
+      "constituency": "Kurla",
+      "state": "West Bengal",
+      "part_no": "220",
+      "serial_no": "260"
+    },
+    "lang": "hindi",
+    "forgery_details": "EPIC changed to GJ7274810",
+    "original_epic": "GJ3621798",
+    "filename": "voter_0011_epic_edit_hi.jpg",
+    "filepath": "/home/tech/kavach_document/data/samples/voter_0011_epic_edit_hi.jpg"
+  },
+  {
+    "type": "epic_edit",
+    "is_forged": true,
+    "person": {
+      "name": "Geeta Iyer",
+      "relation": "W/O",
+      "father_name": "Naresh Iyer",
+      "gender": "Female",
+      "dob": "20/07/1979",
+      "epic": "TS9607223",
+      "constituency": "Rohini",
+      "state": "Rajasthan",
+      "part_no": "300",
+      "serial_no": "552"
+    },
+    "lang": "hindi",
+    "forgery_details": "EPIC changed to RJ5308295",
+    "original_epic": "TS9607223",
+    "filename": "voter_0012_epic_edit_hi.jpg",
+    "filepath": "/home/tech/kavach_document/data/samples/voter_0012_epic_edit_hi.jpg"
+  },
+  {
+    "type": "genuine",
+    "is_forged": false,
+    "person": {
+      "name": "Kapil Reddy",
+      "relation": "W/O",
+      "father_name": "Rajesh Reddy",
+      "gender": "Male",
+      "dob": "27/09/1976",
+      "epic": "MH0516165",
+      "constituency": "Karol Bagh",
+      "state": "Tamil Nadu",
+      "part_no": "99",
+      "serial_no": "326"
+    },
+    "lang": "hindi",
+    "forgery_details": "Clean genuine Voter ID",
+    "filename": "voter_0013_genuine_hi.jpg",
+    "filepath": "/home/tech/kavach_document/data/samples/voter_0013_genuine_hi.jpg"
+  },
+  {
+    "type": "genuine",
+    "is_forged": false,
+    "person": {
+      "name": "Rekha Mishra",
+      "relation": "D/O",
+      "father_name": "Ramesh Mishra",
+      "gender": "Female",
+      "dob": "19/08/1988",
+      "epic": "GJ4505796",
+      "constituency": "Vikhroli",
+      "state": "Gujarat",
+      "part_no": "5",
+      "serial_no": "244"
+    },
+    "lang": "hindi",
+    "forgery_details": "Clean genuine Voter ID",
+    "filename": "voter_0014_genuine_hi.jpg",
+    "filepath": "/home/tech/kavach_document/data/samples/voter_0014_genuine_hi.jpg"
+  },
+  {
+    "type": "photo_swap",
+    "is_forged": true,
+    "person": {
+      "name": "Dinesh Pillai",
+      "relation": "H/O",
+      "father_name": "Sahil Pillai",
+      "gender": "Male",
+      "dob": "07/10/1977",
+      "epic": "KA9016473",
+      "constituency": "Andheri East",
+      "state": "Rajasthan",
+      "part_no": "185",
+      "serial_no": "37"
+    },
+    "lang": "marathi",
+    "forgery_details": "Face photo replaced",
+    "filename": "voter_0015_photo_swap_ma.jpg",
+    "filepath": "/home/tech/kavach_document/data/samples/voter_0015_photo_swap_ma.jpg"
+  },
+  {
+    "type": "genuine",
+    "is_forged": false,
+    "person": {
+      "name": "Lokesh Shah",
+      "relation": "W/O",
+      "father_name": "Sunil Shah",
+      "gender": "Male",
+      "dob": "25/10/1998",
+      "epic": "RJ5940498",
+      "constituency": "Andheri East",
+      "state": "Gujarat",
+      "part_no": "276",
+      "serial_no": "333"
+    },
+    "lang": "hindi",
+    "forgery_details": "Clean genuine Voter ID",
+    "filename": "voter_0016_genuine_hi.jpg",
+    "filepath": "/home/tech/kavach_document/data/samples/voter_0016_genuine_hi.jpg"
+  },
+  {
+    "type": "photo_swap",
+    "is_forged": true,
+    "person": {
+      "name": "Sneha Mehta",
+      "relation": "W/O",
+      "father_name": "Sunil Mehta",
+      "gender": "Female",
+      "dob": "16/02/1979",
+      "epic": "GJ7683642",
+      "constituency": "Ghatkopar",
+      "state": "Rajasthan",
+      "part_no": "65",
+      "serial_no": "490"
+    },
+    "lang": "marathi",
+    "forgery_details": "Face photo replaced",
+    "filename": "voter_0017_photo_swap_ma.jpg",
+    "filepath": "/home/tech/kavach_document/data/samples/voter_0017_photo_swap_ma.jpg"
+  },
+  {
+    "type": "epic_edit",
+    "is_forged": true,
+    "person": {
+      "name": "Neha Shah",
+      "relation": "W/O",
+      "father_name": "Sahil Shah",
+      "gender": "Female",
+      "dob": "19/04/1975",
+      "epic": "UP0640146",
+      "constituency": "Malad West",
+      "state": "Telangana",
+      "part_no": "26",
+      "serial_no": "558"
+    },
+    "lang": "hindi",
+    "forgery_details": "EPIC changed to TN4369208",
+    "original_epic": "UP0640146",
+    "filename": "voter_0018_epic_edit_hi.jpg",
+    "filepath": "/home/tech/kavach_document/data/samples/voter_0018_epic_edit_hi.jpg"
+  },
+  {
+    "type": "genuine",
+    "is_forged": false,
+    "person": {
+      "name": "Kavita Patel",
+      "relation": "D/O",
+      "father_name": "Ramesh Patel",
+      "gender": "Female",
+      "dob": "07/05/2004",
+      "epic": "RJ0188914",
+      "constituency": "Dwarka",
+      "state": "Rajasthan",
+      "part_no": "84",
+      "serial_no": "637"
+    },
+    "lang": "hindi",
+    "forgery_details": "Clean genuine Voter ID",
+    "filename": "voter_0019_genuine_hi.jpg",
+    "filepath": "/home/tech/kavach_document/data/samples/voter_0019_genuine_hi.jpg"
+  }
+]
